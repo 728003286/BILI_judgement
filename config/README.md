@@ -1,6 +1,6 @@
 ```json5
 {
-    "http_header": {  // 建议使用常用浏览器的ua
+    "http_header": {  // Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
         "Referer": "https://www.bilibili.com/",
         "Connection": "keep-alive"
